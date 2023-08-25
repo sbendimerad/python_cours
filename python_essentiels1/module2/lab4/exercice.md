@@ -4,7 +4,7 @@
 # Level of Difficulty: 
 Easy
 
-# Tasks :
+# Tasks:
 * Create the variables: john, mary, and adam.
 * Assign values to the variables. The values must be equal to the numbers of fruit possessed by John, Mary, and Adam respectively.
 * Having stored the numbers in the variables, print the variables on one line, and separate each of them with a comma.
