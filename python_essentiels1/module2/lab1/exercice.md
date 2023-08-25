@@ -1,10 +1,10 @@
-# Estimated time
+# Estimated time:
 5 minutes
 
-# Level of difficulty 
+# Level of difficulty:
 Very easy
 
-# Tasks
+# Tasks:
 
 * use the print() function to print the line Hello, Python! to the screen. Use double quotes around the string;
 
