@@ -1,8 +1,8 @@
 # Estimated Time:
-20-45 minutes
+6 minutes
 
 # Level of Difficulty:
-Easy/Medium
+Very easy
 
 # Tasks:
 1. Modify the first line of this code, using the sep and end keywords :
