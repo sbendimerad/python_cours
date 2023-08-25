@@ -4,7 +4,7 @@
 # Level of Difficulty:
 Easy/Medium
 
-# Tasks
+# Tasks:
 1. Modify the first line of this code, using the sep and end keywords :
 ```
 print("Programming","Essentials","in")
