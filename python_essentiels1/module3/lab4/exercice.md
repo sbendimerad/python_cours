@@ -23,3 +23,21 @@ Due to astronomical reasons, years may be leap (366 days) or common (365 days). 
 year = int(input("Enter a year: "))
 # Put your code here.
 ```
+
+# Test Data :
+```
+Sample input: 2000
+Expected output: Leap year
+
+Sample input: 2015
+Expected output: Common year
+
+Sample input: 1999
+Expected output: Common year
+
+Sample input: 1996
+Expected output: Leap year
+
+Sample input: 1580
+Expected output: Not within the Gregorian 	    calendar period
+```
