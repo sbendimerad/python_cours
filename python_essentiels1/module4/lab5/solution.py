@@ -1,10 +1,10 @@
-def is_prime(num):
-    for i in range(2, int(1 + num ** 0.5)):
-        if num % i == 0:
-            return False
-    return True
-
-
-
-
-
+def factorial_function(n):
+    if n < 0:
+        return None
+    if n < 2:
+        return 1
+    
+    product = 1
+    for i in range(2, n + 1):
+        product *= i
+    return product
