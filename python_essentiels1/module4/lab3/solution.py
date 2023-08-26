@@ -31,6 +31,3 @@ def dayOfYear(year, month, day):
     daysInMonth_count = daysInMonth_count + day
     return daysInMonth_count
         
-#
-
-print(dayOfYear(2000, 12, 31))
