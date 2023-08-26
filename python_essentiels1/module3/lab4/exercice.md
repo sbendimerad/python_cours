@@ -39,5 +39,5 @@ Sample input: 1996
 Expected output: Leap year
 
 Sample input: 1580
-Expected output: Not within the Gregorian 	    calendar period
+Expected output: Not within the Gregorian calendar period
 ```
