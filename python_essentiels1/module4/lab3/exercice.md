@@ -25,7 +25,6 @@ def dayOfYear(year, month, day):
 
 # Test Code :
 ```
-Test Code :
 
 print(dayOfYear(2000, 12, 31))
 
