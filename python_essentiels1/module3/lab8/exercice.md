@@ -2,7 +2,7 @@
 10 minutes
 
 # Level of Difficulty:
-Easy
+Medium
 
 
 # Task:
