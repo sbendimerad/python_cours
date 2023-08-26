@@ -11,9 +11,3 @@ def isPrime(num):
     
 
 
-for i in range(0, 20):
-	if isPrime(i + 1):
-	    print(i + 1, end=" ")
-print()
-
-
