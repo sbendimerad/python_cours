@@ -18,8 +18,6 @@ Medium
 
 # Test Code :
 ```
-Test Code :
-
 for i in range(1, 20):
 	if isPrime(i + 1):
 			print(i + 1, end=" ")
