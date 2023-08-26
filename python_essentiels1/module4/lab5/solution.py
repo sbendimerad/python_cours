@@ -1,8 +1,8 @@
-def isPrime(n):
- for i in(2,n):
-     if n % i == 0 :
-        continue
-     return True
+def is_prime(num):
+    for i in range(2, int(1 + num ** 0.5)):
+        if num % i == 0:
+            return False
+    return True
 
 
 
