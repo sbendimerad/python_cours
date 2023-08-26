@@ -11,6 +11,7 @@ Medium
 
 ![ici](https://github.com/sbendimerad/python_cours/tree/master/python_essentiels1/module3/lab9/pyramid_blocks.png)
 
+
 ```
 blocks = int(input("Enter the number of blocks: "))
 #
