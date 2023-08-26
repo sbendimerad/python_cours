@@ -1,5 +1,5 @@
 # Estimated Time:
-10 minutes
+10 minutes 
 
 # Level of Difficulty:
 Easy
