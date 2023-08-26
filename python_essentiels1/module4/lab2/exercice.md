@@ -9,14 +9,14 @@ Medium
 `* Your task is to write and test a function which takes two arguments (a year and a month) and returns the number of days for the given month/year pair (while only February is sensitive to the year value, your function should be universal).  you can (and should) use the previously written and tested function
 ```
 def isYearLeap(year):
-#
-# your code from LAB 4.1.3.6
-#
+    #
+    # your code from lab1
+    #
 
 def daysInMonth(year, month):
-#
-# put your new code here
-#
+    #
+    # put your new code here    
+    #
 ```
 
 # Test Code :
