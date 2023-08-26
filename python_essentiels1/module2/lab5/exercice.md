@@ -1,8 +1,8 @@
 # Estimated Time:
-6 minutes
+10 minutes
 
 # Level of Difficulty:
-Very easy
+Easy
 
 
 # Task:
