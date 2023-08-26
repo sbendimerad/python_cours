@@ -1,3 +1,9 @@
+# Estimated Time:
+30 minutes
+
+# Level of Difficulty:
+Medium
+
 # Take the time to read : 
 
 * There's one more thing we want to show you to make everything complete - it's recursion.
