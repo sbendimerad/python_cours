@@ -16,3 +16,22 @@ checks whether, the entered texts are anagrams and prints the result.
 assume that two empty strings are not anagrams;
 treat upper- and lower-case letters as equal;
 spaces are not taken into account during the check - treat them as non-existent
+
+# Test data
+```
+Sample input:
+
+Listen
+Silent
+
+Sample output:
+Anagrams
+```
+```
+Sample input:
+modern
+norman
+
+Sample output:
+Not anagrams
+```
