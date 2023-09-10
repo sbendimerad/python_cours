@@ -23,8 +23,8 @@ Test your code using the data we've provided.
 Sample input : 19991229
 
 Sample output : 6
-```
 
 Sample input : 20000101
 
 Sample output : 4
+```
