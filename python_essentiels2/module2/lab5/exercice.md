@@ -26,6 +26,7 @@ Silent
 Sample output:
 Anagrams
 ```
+
 ```
 Sample input:
 modern
