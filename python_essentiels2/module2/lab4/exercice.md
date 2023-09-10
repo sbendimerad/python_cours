@@ -19,3 +19,21 @@ checks whether the entered text is a palindrome, and prints result.
 * treat upper- and lower-case letters as equal;
 * spaces are not taken into account during the check - treat them as non-existent;
 * there are more than a few correct solutions - try to find more than one.
+
+# Test data
+```
+Sample input:
+Listen
+Silent
+
+Sample output:
+Anagrams
+```
+```
+Sample input:
+modern
+norman
+
+Sample output:
+Not anagrams
+```
