@@ -52,7 +52,7 @@ cdezabCDEzab 123
 ```
 ```
 Sample input:
-The die is cast
+The die is cast 
 25
 
 Sample output:
