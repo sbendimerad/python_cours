@@ -43,7 +43,6 @@ Your task is to write a program which:
 # Test data
 ```
 Sample input:
-
 abcxyzABCxyz 123
 2
 
