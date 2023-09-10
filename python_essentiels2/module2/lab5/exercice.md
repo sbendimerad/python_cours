@@ -20,7 +20,6 @@ spaces are not taken into account during the check - treat them as non-existent
 # Test data
 ```
 Sample input:
-
 Listen
 Silent
 
