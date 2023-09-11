@@ -295,13 +295,13 @@ del dictionary
 for key in sorted(dictionary.keys()):
 
 ## Module 4 : Les exceptions
-
+#
 try:
     value = int(input('Enter a natural number: '))
     print('The reciprocal of', value, 'is', 1/value)        
 except:
     print('I do not know what to do.')
-
+#
 try:
     value = int(input('Enter a natural number: '))
     print('The reciprocal of', value, 'is', 1/value)        
@@ -309,7 +309,7 @@ except ValueError:
     print('I do not know what to do.')    
 except ZeroDivisionError:
     print('Division by zero is not allowed in our Universe.') 
-
+#
 try:
     value = int(input('Enter a natural number: '))
     print('The reciprocal of', value, 'is', 1/value)        
