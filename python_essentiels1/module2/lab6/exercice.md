@@ -21,9 +21,13 @@ print(y)
 
 ```
 Sample input
-x = 0 x = 1 x = -1
+x = 0
+x = 1
+x = -1
 
 Expected Output
-y = -1.0 y = 3.0 y = -9.0
+y = -1.0
+y = 3.0
+y = -9.0
 ```
  
