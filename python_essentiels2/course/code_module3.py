@@ -337,3 +337,21 @@ print(obj.variable_2, obj.var_2, obj.fun_2())
 print(obj.variable_3, obj.var_3, obj.fun_3())
 
 #
+class Left:
+    var = "L"
+    var_left = "LL"
+    def fun(self):
+        return "Left"
+## Module 3 : Propriétés et méthodes
+class Right:
+    var = "R"
+    var_right = "RR"
+    def fun(self):
+        return "Right"
+
+class Sub(Left, Right):
+    pass
+
+obj = Sub()
+
+print(obj.var, obj.var_left, obj.var_right, obj.fun())
