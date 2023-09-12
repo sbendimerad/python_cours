@@ -11,7 +11,7 @@ Easy
 Due to astronomical reasons, years may be leap (366 days) or common (365 days). Since the introduction of the Gregorian calendar (in 1582), the following rules is used to determine the kind of year:
 
 * If the year is not divisible by 4, it's a common year.
-* If the year is divisible by 4 but also divisible by 100, it's a leap year.
+* If the year is divisible by 4 but also divisible by 100, it's a common year.
 * If the year is divisible by 4, not divisible by 100, and not divisible by 400, it's a common year.
 * If the year is divisible by 400, it's a leap year.
 
