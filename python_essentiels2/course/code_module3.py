@@ -167,17 +167,17 @@ class ExampleClass:
     def set_second(self, val):
         self.second = val
 
-example_object_1 = ExampleClass()
-example_object_2 = ExampleClass(2)
+object_1 = ExampleClass()
+object_2 = ExampleClass(2)
 
-example_object_2.set_second(3)
+object_2.set_second(3)
 
-example_object_3 = ExampleClass(4)
-example_object_3.third = 5
+object_3 = ExampleClass(4)
+object_3.third = 5
 
-print(example_object_1.__dict__)
-print(example_object_2.__dict__)
-print(example_object_3.__dict__)
+print(object_1.__dict__)
+print(object_2.__dict__)
+print(object_3.__dict__)
 
 
 #
@@ -188,11 +188,10 @@ class ExampleClass:
     def set_second(self, val = 2):
         self.__second = val
 
+object_1 = ExampleClass()
+object_2 = ExampleClass(2)
 
-example_object_1 = ExampleClass()
-example_object_2 = ExampleClass(2)
-
-print(example_object_1._ExampleClass__first)
+print(object_1._ExampleClass__first)
 
 
 #
@@ -211,4 +210,6 @@ print(object_1.__dict__, object_1.counter)
 print(object_2.__dict__, object_2.counter)
 print(object_3.__dict__, object_3.counter)
 
+## Module 3 : Méthodes
 
+#
