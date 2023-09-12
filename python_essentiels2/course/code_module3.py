@@ -95,7 +95,7 @@ stack_object_2.push(stack_object_1.pop())
 print(stack_object_2.pop())
 
 
-## Module 4 : L'héritage
+## Module 3 : L'héritage
 
 #
 class Stack:
@@ -157,7 +157,7 @@ for i in range(5):
     print(stack_object.pop())
 
 
-## Module 4 : Variables d'instance
+## Module 3 : Variables d'instance
 
 #
 class ExampleClass:
@@ -194,7 +194,7 @@ object_2 = ExampleClass(2)
 print(object_1._ExampleClass__first)
 
 
-#
+# Variables de classe
 class ExampleClass:
     counter = 0
     def __init__(self, val = 1):
