@@ -5,7 +5,7 @@
 Easy
 
 # Tasks:
-* Create the variables: john, mary, and adam.
+* Create the variables: **john**, **mary**, and **adam**.
 * Assign values to the variables. The values must be equal to the numbers of fruit possessed by John, Mary, and Adam respectively.
 * Having stored the numbers in the variables, print the variables on one line, and separate each of them with a comma.
 * Now, create a new variable named totalApples equal to the addition of the three former variables.
