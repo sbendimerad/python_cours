@@ -1,3 +1,5 @@
+## Module 2 : Crypter un message en python
+
 # Caesar cipher.
 text = input("Enter your message: ")
 cipher = ''
@@ -12,6 +14,7 @@ for char in text:
 
 print(cipher)
 
+## Module 2 : Les exceptions
 #
 try:
     y = 1 / 0
