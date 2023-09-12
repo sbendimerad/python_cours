@@ -11,4 +11,6 @@ Easy
 * Now, create a new variable named totalApples equal to the addition of the three former variables.
 * Print the value stored in totalApples to the console.
 * Try to print a string and an integer together on one line:
+```
 Total number of apples is: 14.
+```
