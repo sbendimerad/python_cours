@@ -11,3 +11,36 @@ for char in text:
     cipher += chr(code)
 
 print(cipher)
+
+#
+try:
+    y = 1 / 0
+except ArithmeticError:
+    print("Oooppsss...")
+
+print("THE END.")
+
+#
+def bad_fun(n):
+    try:
+        return 1 / n
+    except ArithmeticError:
+        print("Arithmetic Problem!")
+    return None
+
+bad_fun(0)
+print("THE END.")
+
+
+def bad_fun(n):
+    raise ZeroDivisionError
+
+
+try:
+    bad_fun(0)
+except ArithmeticError:
+    print("What happened? An error?")
+
+print("THE END.")
+
+
