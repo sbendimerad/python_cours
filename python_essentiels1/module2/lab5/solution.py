@@ -1,8 +1,9 @@
-kilometers = 12.25
-miles = 7.38
+# Initialize a variable to store user input
+user_input = ""
 
-miles_to_kilometers = 7.38*1.61
-kilometers_to_miles = 12.25/1.61
-
-print(miles, "miles is", round(miles_to_kilometers, 2), "kilometers")
-print(kilometers, "kilometers is", round(kilometers_to_miles, 2), "miles")
+# Use a while loop to continuously ask for input
+while user_input != "chupacabra":
+    user_input = input("Enter a word: ")
+    
+# Print a message when the loop terminates
+print("You've successfully left the loop.")
