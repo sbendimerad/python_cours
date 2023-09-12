@@ -12,12 +12,11 @@ x = float(input(“enter a float : “))
 y = ###
 print(y)
 ```
-* complete the code in order to evaluate the following expression:
+* Assign to y the following expression:
 ```
          3x3 - 2x2 + 3x – 1
 ```
 
-* The result should be assigned to y.
 * Keep your code clean and readable, and test it using the following data, each time assigning it to the x variable (by hardcoding it) :
 
 ```
