@@ -10,7 +10,7 @@ Very easy
 print("Programming","Essentials","in")
 print("Python")
 ```
-* to match this output :
+* To match this output :
 Programming\*\*\*Essentials\*\*\*in...Python
 
 * Don't change anything in the second print() invocation.
