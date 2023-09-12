@@ -12,7 +12,7 @@ print("Python")
 ```
 * To match this output :
 ```
-Programming\*\*\*Essentials\*\*\*in...Python
+Programming***Essentials***in...Python
 ```
 * Don't change anything in the second print() invocation.
  
