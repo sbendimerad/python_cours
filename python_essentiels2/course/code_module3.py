@@ -207,8 +207,8 @@ object_1 = ExampleClass()
 object_2 = ExampleClass(2)
 object_3 = ExampleClass(4)
 
-print(example_object_1.__dict__, object_1.counter)
-print(example_object_2.__dict__, object_2.counter)
-print(example_object_3.__dict__, object_3.counter)
+print(object_1.__dict__, object_1.counter)
+print(object_2.__dict__, object_2.counter)
+print(object_3.__dict__, object_3.counter)
 
 
