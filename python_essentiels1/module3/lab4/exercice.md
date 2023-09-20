@@ -10,8 +10,9 @@ Easy
 
 Due to astronomical reasons, years may be leap (366 days) or common (365 days). Since the introduction of the Gregorian calendar (in 1582), the following rules is used to determine the kind of year:
 
-* If a year is divisible by 4, it is a leap year.
-* However, if that year is also divisible by 100, it is not a leap year, unless : The year is also divisible by 400, in which case it is a leap year.
+*on every year that is evenly divisible by 4
+**  except every year that is evenly divisible by 100
+***    unless the year is also evenly divisible by 400
 
 * The code reads a year number, and needs to be completed to output one of the 3 messages : <br>
 **Leap year  | Common year  | Not within the Gregorian calendar**
