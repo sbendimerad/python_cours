@@ -14,7 +14,7 @@ print(y)
 ```
 * Assign to y the following expression:
 ```
-         3x3 - 2x2 + 3x – 1
+         3x^3 - 2x^2 + 3x – 1
 ```
 
 * Keep your code clean and readable, and test it using the following data, each time assigning it to the x variable (by hardcoding it) :
