@@ -18,6 +18,7 @@ Your task is to write a simple program which pretends to play tic-tac-toe with t
 don't implement any form of artificial intelligence − a random field choice made by the computer is good enough for the game.
 
 The example session with the program may look as follows :
+```
 +-------+-------+-------+
 |       |       |       |
 |   1   |   2   |   3   |
@@ -126,6 +127,7 @@ Enter your move: 7
 |   O   |   O   |   9   |
 |       |       |       |
 +-------+-------+-------+
+```
 You won!
 
 # Requirments -> Implement the following features :
