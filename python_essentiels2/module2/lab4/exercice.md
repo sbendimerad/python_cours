@@ -23,17 +23,15 @@ checks whether the entered text is a palindrome, and prints result.
 # Test data
 ```
 Sample input:
-Listen
-Silent
+kayak
 
 Sample output:
-Anagrams
+True
 ```
 ```
 Sample input:
-modern
-norman
+python
 
 Sample output:
-Not anagrams
+False
 ```
