@@ -62,11 +62,11 @@ Your task is to write a program which:
 # Test data
 ```
 Sample input:
-abcxyzABCxyz 123
+abcxyzABCxyz 
 2
 
 Sample output:
-cdezabCDEzab 123
+cdezabCDEzab 
 ```
 ```
 Sample input:
