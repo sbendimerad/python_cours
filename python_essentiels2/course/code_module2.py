@@ -23,6 +23,17 @@ except ArithmeticError:
 
 print("THE END.")
 
+
+try:
+    y = 1 / 0
+except ZeroDivisionError:
+    print("ZeroDivisionError..")
+except ArithmeticError:
+    print("ArithmeticError...")
+
+print("THE END.")
+
+
 #
 def bad_fun(n):
     try:
@@ -32,6 +43,17 @@ def bad_fun(n):
     return None
 
 bad_fun(0)
+print("THE END.")
+
+def bad_fun(n):
+    try:
+        return 1 / n
+    except ArithmeticError:
+        print("Arithmetic Problem!")
+    return None
+
+test = bad_fun(5)
+print(test)
 print("THE END.")
 
 
