@@ -8,7 +8,7 @@ Le cours est divisé en deux parties :
 1. **Première partie** : Certification Python CISCO niveaux 1 et 2  
 2. **Seconde partie** : Librairies de manipulation de données et de visualisation avec Python
 
-## Organisation du contenu
+# Organisation du contenu
 **Repo Git :**
 
 - **Python Essentials 1** : Concerne la première partie de la certification et contient:
