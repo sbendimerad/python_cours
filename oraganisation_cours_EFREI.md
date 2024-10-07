@@ -8,17 +8,22 @@ Le cours est divisé en deux parties :
 1. **Première partie** : Certification Python CISCO niveaux 1 et 2  
 2. **Seconde partie** : Librairies de manipulation de données et de visualisation avec Python
 
-### Organisation du contenu
+## Organisation du contenu
 **Repo Git :**
 
-- **Python Essentials 1** : Contenu pour la première partie de la certification  
+- **Python Essentials 1** : Concerne la première partie de la certification et contient:
   - **course** : Contient le PDF du cours ainsi que les codes du PDF  
   - **ModuleXX** : Contient les labs et leurs solutions  
 
-- **Python Essentials 2** : Contenu pour la seconde partie de la certification (même structure)
+- **Python Essentials 2** : Concerne pour la seconde partie de la certification et contient:
     - **course** : Contient le PDF du cours ainsi que les codes du PDF  
-    - **ModuleXX** : Contient les labs et leurs solutions  
+    - **ModuleXX** : Contient les labs et leurs solutions
 
+
+- **Python data manipuation ** : Contenu pour la partie manipulation de données avec python et vizualisation et contient:
+    - Les notebooks de cours
+    - Les exercices
+    - Les données à utiliser
 
 ---
 
