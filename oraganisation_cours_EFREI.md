@@ -34,7 +34,27 @@ L'évaluation se déroule en 2 étapes :
 
 ---
 
-# Organisation du cours (Mode Montessori et classe inversée)
-- **45 min** : Présentation des concepts théoriques par l'enseignante  
-- **Exercices** : À réaliser en autonomie ou en binôme (L'examen sera ajusté selon les progrès de la classe)  
-- **Correction** : En mode classe inversée (pour les exercices plus complexes)
+# Organisation des séances
+
+- Séance 1:
+  - Présentation du cours/contenu/organisation 30 min
+  - Installation du language 15 min
+  - Syntaxe de base partie1 30 min
+  - TP pythons_essentiels1 module2 1h30
+  - TP pythons_essentiels1 module3 1h30
+- Séance 2:
+  - Python pour la manipulation de données pandas/numpu
+  - Python pour la visualization matplotlib/plotly
+  - Exercices 
+- Séance 3:
+  - Syntaxe de base partie2 30 min
+  - TP pythons_essentiels1 module4 1h00
+  - Projet noté manipulation de données 3h00
+- Séance 4:
+  - Syntaxe de base partie3 30 min
+  - TP pythons_essentiels1 module4 1h00
+  - TP pythons_essentiels2 module2 1h30
+  - Tp à venir
+- Séance 5:
+  - A venir
+  - Examen noté 2h
